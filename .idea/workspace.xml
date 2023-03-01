@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd35be87-75fe-4e92-9210-1ebe81c6d9b5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3989394714f4376b4af77e4673bd0c38dda47f9852f082ba9bb3b1d2c987cf5b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/rollup.browser.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
       <workItem from="1677524060741" duration="834000" />
       <workItem from="1677525837515" duration="606000" />
       <workItem from="1677538306798" duration="689000" />
+      <workItem from="1677627269121" duration="226000" />
     </task>
     <servers />
   </component>
